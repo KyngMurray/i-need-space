@@ -1,31 +1,31 @@
 * {
-    font-family: 'Roboto', sans-serif;
-    color: #03045e;
+    font-family: 'Marker Felt', fantasy;
+    color: #035e1a;
 }
 
 body {
     margin: 0;
     padding: 0;
-    background-color: #caf0f8;
+    background-color: #caf8df;
 }
 
 h1, h2 {
-    font-family: 'Orelega One', cursive;
+    font-family: 'Stencil Std', fantasy;
 }
 
 h2 {
-    margin: 0;
+    margin: 15;
 }
 
 .content {
     min-height: 100vh;
     width: 1000px;
-    max-width: 90%;
+    max-width: 150%;
     margin: auto;
     display: flex;
     flex-direction: column;
     align-items: center;
-    background-color: #00b4d8;
+    background-color: #00d87e;
     padding: 0 24px;
 }
 
@@ -33,7 +33,7 @@ h2 {
     border-radius: 3px;
     width: fit-content;
     margin-bottom: 24px;
-    background-color: #90e0ef;
+    background-color: #90efbb;
 }
 
 .row {
@@ -57,7 +57,7 @@ input {
     justify-self: flex-end;
     font-size: 14px;
     height: 24px;
-    background-color: #caf0f8;
+    background-color: #caf8e7;
     outline: none;
     border: none;
     padding: 3px 6px;
@@ -65,7 +65,7 @@ input {
 }
 
 button {
-    background-color: #03045e;
+    background-color: #035e31;
     color: white;
     outline: none;
     border: none;
